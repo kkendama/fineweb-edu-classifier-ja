@@ -1,5 +1,6 @@
-# Kendamarron/fineweb-edu-classifier-ja
 https://huggingface.co/Kendamarron/fineweb-edu-classifier-ja
+
+# Kendamarron/fineweb-edu-classifier-ja
 
 [HuggingFaceFW/fineweb-edu-classifier](https://huggingface.co/HuggingFaceFW/fineweb-edu-classifier)を再現するために、日本語データで[pkshatech/GLuCoSE-base-ja](https://huggingface.co/pkshatech/GLuCoSE-base-ja)を学習したモデルです。
 
